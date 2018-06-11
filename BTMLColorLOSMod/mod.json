@@ -1,1 +1,6 @@
-{ "Website": "https://github.com/janxious/BTMLColorLOSMod/" }
+{ 
+    "Website": "https://github.com/janxious/BTMLColorLOSMod/",
+    "Author": "janxious",
+    "Description": "Change the color (and dashedness!) of the lines of fire, with sets changable by keybind",
+    "Category": "visual"
+}

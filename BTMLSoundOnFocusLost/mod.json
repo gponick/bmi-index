@@ -1,1 +1,6 @@
-{ "Website": "https://github.com/gponick/BTMLSoundOnFocusLost/" } 
+{ 
+    "Website": "https://github.com/gponick/BTMLSoundOnFocusLost/",
+    "Author": "gponick",
+    "Description": "Keep the sound on when you tab out, with bindable key in game settings!",
+    "Category": "audio"
+} 

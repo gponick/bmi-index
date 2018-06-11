@@ -1,1 +1,6 @@
-{ "Website": "https://github.com/gponick/BTMLAddBindableEscapeKey/" }
+{ 
+    "Website": "https://github.com/gponick/BTMLAddBindableEscapeKey/",
+    "Author": "gponick",
+    "Description": "Add a bindable set of keys for the same action as escape",
+    "Categoroy": "utility"
+}
