@@ -1,9 +1,14 @@
-{ 
-    "BTMLColorLOSMod": { "Website": "https://github.com/janxious/BTMLColorLOSMod/" },
-    "BTMLAddBindableEscapeKey": { "Website": "https://github.com/gponick/BTMLAddBindableEscapeKey/" },
-    "BTMLSoundOnFocusLost": { "Website": "https://github.com/gponick/BTMLSoundOnFocusLost/" } 
+{
+    "BTMLSoundOnFocusLost": {
+        "Website": "https://github.com/gponick/BTMLSoundOnFocusLost/",
+        "Name": "BTMLSoundOnFocusLost"
+    },
+    "BTMLAddBindableEscapeKey": {
+        "Website": "https://github.com/gponick/BTMLAddBindableEscapeKey/",
+        "Name": "BTMLAddBindableEscapeKey"
+    },
+    "BTMLColorLOSMod": {
+        "Website": "https://github.com/janxious/BTMLColorLOSMod/",
+        "Name": "BTMLColorLOSMod"
+    }
 }
-
-
-
-
