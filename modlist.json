@@ -1,22 +1,17 @@
 {
-    "BTMLSoundOnFocusLost": {
-        "Webiste": "https://github.com/gponick/BTMLSoundOnFocusLost/",
-        "Name": "BTMLSoundOnFocusLost",
-        "Category": "audio"
-    },
     "BTMLColorLOSMod": {
         "Webiste": "https://github.com/janxious/BTMLColorLOSMod/",
-        "Name": "BTMLColorLOSMod",
-        "Category": "visual"
+        "Category": "visual",
+        "Name": "BTMLColorLOSMod"
+    },
+    "BTMLSoundOnFocusLost": {
+        "Webiste": "https://github.com/gponick/BTMLSoundOnFocusLost/",
+        "Category": "audio",
+        "Name": "BTMLSoundOnFocusLost"
     },
     "BTMLAddBindableEscapeKey": {
         "Webiste": "https://github.com/gponick/BTMLAddBindableEscapeKey/",
-        "Name": "BTMLAddBindableEscapeKey",
-        "Category": "Unknown"
-    },
-    "CharlesB": {
-        "Webiste": "https://github.com/janxious/CharlesB/",
-        "Name": "CharlesB",
-        "Category": "gameplay"
+        "Category": "Unknown",
+        "Name": "BTMLAddBindableEscapeKey"
     }
 }
