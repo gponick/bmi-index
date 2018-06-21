@@ -22,7 +22,8 @@ for fil in allfiles:
 modlistdict = {}
 
 for mod in mods:
-    modlistdict[mod['Name']] = { 'Name': mod['Name'], 'Website': mod['Website'], 'Category': mod['Category'] if 'Category' in mod else 'Unknown' }
+    print(mod['Name'])
+    modlistdict[mod['Name']] = { 'Name': mod['Name'], 'Author': mod['Author'], 'Website': mod['Website'], 'Category': mod['Category'] if 'Category' in mod else 'Unknown', 'Description': mod['Description'] }
 
 os.remove(os.path.join(os.path.abspath('.'),'modlist.json'))
 with open(os.path.join(os.path.abspath('.'),'modlist.json'),'w') as modlistfile:
