@@ -14,6 +14,8 @@ for fil in allfiles:
         continue
     if os.path.isdir(os.path.join(os.path.abspath('.'), fil)):
         with open(os.path.join(os.path.abspath('.'),fil,'mod.json'),'r') as modfile:
+            print(os.path.join(os.path.abspath('.'),fil,'mod.json'))
+            print(fil)
             modjson = modfile.read()
             mod = json.loads(modjson)
             mod['Name'] = fil

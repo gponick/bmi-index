@@ -1,6 +1,7 @@
-﻿{
+{   
     "Website": "https://github.com/janxious/InternalHeaters",
     "Author": "janxious",
     "Description": "Allow chassis to define more than default internal heatsinks or setup DHS to create a double heatsinked engine. Also correct heat bar display in mech lab",
     "Category": "gameplay"
 }
+
